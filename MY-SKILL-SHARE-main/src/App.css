@@ -44,6 +44,11 @@ body {
   border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.3s ease;
+  display: block; /* Ensure the button is a block element */
+  width: 100%; /* Full width of the container */
+  max-width: 300px; /* Set a max-width for the button */
+  margin: 20px auto; /* Center the button */
+  font-size: 1.2em; /* Increase font size */
 }
 
 .add-skill-button:hover {
@@ -71,15 +76,6 @@ body {
   object-fit: cover; /* Ensure the image covers the area */
   display: block;
   margin: 0 auto; /* Center the image */
-}
-
-/* Adjustments to the Add Your Skills button */
-.add-skill-button {
-  display: block; /* Ensure the button is a block element */
-  width: 100%; /* Full width of the container */
-  max-width: 300px; /* Set a max-width for the button */
-  margin: 20px auto; /* Center the button */
-  font-size: 1.2em; /* Increase font size */
 }
 
 /* Styles for Gallery Section */
@@ -154,20 +150,17 @@ body {
 
 /* Responsive Styles */
 @media screen and (max-width: 400px) {
-  #dashboard {
-    padding: 20px;
-    width: 100%;
-  }
+  #dashboard,
   #myskills,
   #addskill,
   #reports,
   #skillcategories,
   #contact,
-  #footer {
-    width: 100%;
-  }
-
+  #footer,
   #portfolio {
     width: 100%;
   }
 }
+
+
+
