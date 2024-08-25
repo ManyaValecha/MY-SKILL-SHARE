@@ -1,0 +1,30 @@
+{
+  "header": {
+    "title": "SkillShare Dashboard",
+    "paragraph": "Track, Learn, and Master New Skills"
+  },
+  "dashboard": {
+    "paragraph": "The Dashboard provides an overview of your skills, recent activity, and important updates or metrics. Stay informed about your skill progress and take control of your learning journey."
+  },
+  "myskills": {
+    "paragraph": "Manage your skills in one place. View, add, edit, or delete your skills while categorizing them into technical, soft skills, language skills, and more. Track your proficiency and see how you're improving over time."
+  },
+  "addskill": {
+    "paragraph": "Easily add new skills to your profile. Specify details such as skill name, category, and proficiency level, and start tracking your progress from the moment you add it."
+  },
+  "skillcategories": {
+    "paragraph": "Organize your skills by categorizing them into different groups such as Technical Skills, Soft Skills, and Language Skills for easy browsing and better management of your learning."
+  },
+  "reports": {
+    "paragraph": "Get detailed insights into your skill progress with comprehensive reports and analytics. Discover areas for improvement and track your learning activities to ensure continuous growth."
+  },
+  "contact": {
+    "address": "123 SkillShare Avenue, Learning City, LC 45678",
+    "phone": "123-456-7890",
+    "email": "support@skillshare.com",
+    "facebook": "facebook.com/skillshare",
+    "twitter": "twitter.com/skillshare",
+    "youtube": "youtube.com/skillshare"
+  }
+}
+     
