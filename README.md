@@ -19,3 +19,4 @@ Clone the Repository: git clone https://github.com/ManyaValecha/MY-SKILL-SHARE.g
 Install Dependencies: npm install
 Run the App: npm start
 Join us in redefining skill management—one badge at a time!
+<img width="1463" alt="SkillShare" src="https://github.com/user-attachments/assets/173948aa-d27d-46c9-ac7b-3610ec2675a7">
